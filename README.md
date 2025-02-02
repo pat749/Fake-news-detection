@@ -3,7 +3,7 @@
 [![Watch the video](https://i.postimg.cc/tgGgrMsN/25480.jpg)](http://artificialbrains.s3.amazonaws.com/news_guardian.mp4)
 
 
-Welcome to the Fake News Detector project! This project was created as part of my college coursework, and I'm excited to share it with the developer community. If you are interested in contributing to this project or using it as a basis for your own development, please read on.
+Welcome to the Fake News Detector project! This project was created as part of my  amdocs hacakthon Round 2, and I'm excited to share it with the developer community. If you are interested in contributing to this project or using it as a basis for your own development, please read on.
 
 ## About FND
 
